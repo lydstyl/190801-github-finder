@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This App was made for training [See the course](https://www.udemy.com/modern-react-front-to-back)
+[See the App](https://gabriel-brun-github-finder.netlify.com/)
 
 ## Available Scripts
 
